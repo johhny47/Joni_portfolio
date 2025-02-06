@@ -1,4 +1,4 @@
-import { FaFacebook, FaGithub, FaLinkedinIn, FaWhatsapp } from "react-icons/fa";
+import { FaFacebook, FaGithub, FaLinkedinIn, FaTwitter, } from "react-icons/fa";
 
 
 const Banner = () => {
@@ -18,7 +18,7 @@ const Banner = () => {
        <a href="https://web.facebook.com/md.johnny.526"> <FaFacebook size={40} className="text-blue-800"/></a>
        <a href="https://github.com/johhny47"> <FaGithub size={40} className="text-black-800"/></a>
        <a href="https://www.linkedin.com/in/joni-fakir-50803b344"> <FaLinkedinIn size={40} className="text-blue-700"/></a>
-      
+       <a href="https://x.com/mdjohnny063"> <FaTwitter size={40} className="text-blue-700"/></a>
           
         </div>
         <a 
